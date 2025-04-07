@@ -61,8 +61,17 @@
 .temp{
     font-family: sans-serif;
     display: flex;
+    align-items: center;
     font-size: 50px;
     color: rgb(18, 143, 245);
+}
+
+.condition{
+    margin-top: 75px;
+    font-family: sans-serif;
+    color: rgb(18, 143, 245);
+    font-size: 1.5rem;
+    align-self: flex-end;
 }
 
 .daytime{
